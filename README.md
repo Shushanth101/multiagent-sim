@@ -6,14 +6,9 @@ A cool little sim where multiple agents interact, coordinate, and navigate dynam
 - ⚡ Multi-agent environment simulation
 - 🧭 Agent-to-agent communication & coordination
 - 🧠 Decision-making logic for individual agents
+  
+## Agent-Flow-Chart
 
----
-## 📦 Installation
-
-
-```bash
-git clone https://github.com/Shushanth101/multiagent-sim.git
+<img src="https://github.com/user-attachments/assets/8ce24464-abda-4f12-a801-40f30602600a" >
 
 
-# Agent-Flow-Chart
-![Blank diagram](https://github.com/user-attachments/assets/108e673b-b058-4dac-bb84-d20638e4e344)
