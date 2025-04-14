@@ -10,6 +10,10 @@ A cool little sim where multiple agents interact, coordinate, and navigate dynam
 ---
 ## 📦 Installation
 
+
 ```bash
 git clone https://github.com/Shushanth101/multiagent-sim.git
 
+
+# Agent-Flow-Chart
+![Blank diagram](https://github.com/user-attachments/assets/108e673b-b058-4dac-bb84-d20638e4e344)
