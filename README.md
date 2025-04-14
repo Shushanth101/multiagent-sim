@@ -15,4 +15,3 @@ A cool little sim where multiple agents interact, coordinate, and navigate dynam
 ```bash
 git clone https://github.com/shushanth21/multiagent-flow.git
 cd multiagent-flow
-pip install -r requirements.txt
