@@ -11,5 +11,5 @@ A cool little sim where multiple agents interact, coordinate, and navigate dynam
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/shushanth21/multiagent-sim.git
+git clone https://github.com/Shushanth101/multiagent-sim.git
 
